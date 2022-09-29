@@ -1,2 +1,2 @@
 # alexrochac.github.io
-intentando publicar a miña web
+intentando publicar miña web
