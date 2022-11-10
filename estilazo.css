@@ -5,6 +5,7 @@ body {
 	margin-bottom: 75px;
 	margin-right: 200px;
 	margin-left: 200px; } 
+/*me gusta el color no juzgues*/
 h1 {
 	text-shadow: 0 0 5px yellow;
 	text-align: center;
@@ -52,12 +53,14 @@ a:visited {
 	color:aqua; }
 a:hover{
 	color:chartreuse;}
+/*no me quedo centrada totalmente*/
 table{
 	margin-left: 38%;
 	background-color:black;
 	border-radius: 10px;
 	border-color: aqua;
 	border-style: dotted;}
+/*me quedo en grande toda la pagina*/
 input[type=text] {
 	width: 100%;
 	padding: 12px 20px;
